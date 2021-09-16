@@ -1,0 +1,6 @@
+Count-I =  c7590ea9 
+Bearer = 17
+Direction  = 0
+IK = d3419be8 21087acd 02123a92 48033359  
+Length = 511
+Message = bbb05703 8809496b cff86d6f bc8ce5b1 35a06b16 6054f2d5 65be8ace 75dc851e  0bcdd8f0 7141c495 872fb5d8 c0c66a8b 6da55666 3e4e4612 05d84580 bee5bc7e

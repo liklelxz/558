@@ -1,0 +1,22 @@
+First compile with gcc -L yoursslpath/inclue -I yoursslpath/lib encrypt.c or integrity_check.c -lcrypto -o ./encrypt
+
+Then input ./encrypt test_encryption1.txt
+
+For the input file, the encryption test file must in order that
+key
+count
+bearer
+direction
+length
+Plaintext
+
+For integrity check
+
+count-i
+bearer
+direction
+IK
+length
+Message
+
+

@@ -1,0 +1,6 @@
+Key = aa1f95ae a533bcb3 2eb63bf5 2d8f831a  
+Count = 72d8c671
+Bearer = 10 
+Direction  = 1 
+Length = 1022
+Plaintext = fb1b96c5 c8badfb2 e8e8edfd e78e57f2 ad81e741 03fc430a 534dcc37 afcec70e 1517bb06 f27219da e49022dd c47a068d e4c9496a 951a6b09 edbdc864 c7adbd74 0ac50c02 2f3082ba fd22d781 97c5d508 b977bca1 3f32e652 e74ba728 576077ce 628c535e 87dc6077 ba07d290 68590c8c b5f1088e 082cfa0e c961302d 69cf3d44

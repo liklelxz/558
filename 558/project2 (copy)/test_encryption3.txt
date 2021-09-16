@@ -1,0 +1,6 @@
+Key = 0a8b6bd8 d9b08b08 d64e32d1 817777fb  
+Count = 544d49cd
+Bearer = 04 
+Direction  = 0 
+Length = 310 
+Plaintext =  fd40a41d 370a1f65 74509568 7d47ba1d 36d2349e 23f64439 2c8ea9c4 9d40c132 71aff264 d0f24800
